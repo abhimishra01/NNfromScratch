@@ -5,4 +5,4 @@
 ### Vectors, Arrays, Matrices, Concept of shapes and dimensions
 ### The Dot Product concept
 
-### Will be updating more on weekly basis 
+### Will be updating more on weekly basis . . . 
