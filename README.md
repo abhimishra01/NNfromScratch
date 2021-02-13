@@ -1,6 +1,6 @@
 # Neural Networks From Scratch Code Implementation using python
 
-## Refer this playlist :- *https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3*
+#### Refer this playlist :- *https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3*
 
 ## Currently implemented :-
 ### Neuron code from scratch
