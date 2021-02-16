@@ -6,5 +6,5 @@
 ### Neuron code from scratch
 ### Vectors, Arrays, Matrices, Concept of shapes and dimensions
 ### The Dot Product concept
-### Activation functions and Hidden Layers (test branch)
+### Activation functions (Sigmoid, Softmax, ReLU) and Hidden Layers (test branch)
 ### Will be updating more on weekly basis . . . 
