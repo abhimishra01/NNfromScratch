@@ -7,4 +7,5 @@
 ### Vectors, Arrays, Matrices, Concept of shapes and dimensions
 ### The Dot Product concept
 ### Activation functions (Sigmoid, Softmax, ReLU) and Hidden Layers (test branch)
+### Calculating Loss with Categorical Crossentropy !
 ### Will be updating more on weekly basis . . . 
