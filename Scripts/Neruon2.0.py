@@ -14,5 +14,14 @@ def layer_output(inputs, weights, biases):
         layer_outputs.append(neuron_output)
     return np.array(layer_outputs)
 
+# simpler way of doing the same using dot product 
+def layer_output_dot(inputs, weights, biases):
+    layer_output = np.dot(weights, inputs) + biases
+    return layer_output
+
 layerOutput = layer_output(inputs, weights, biases)
+layerOutput2 = layer_output_dot(inputs, weights, biases)
+
 print(layerOutput)
+print(layerOutput2)
+# both are same 
